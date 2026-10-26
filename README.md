@@ -10,7 +10,7 @@ Format is EagleCAD schematic and board layout
 
 ### Description
 
-For excellent accuracy time-keeping - when your everyday RTC (Real Time Clock) won't do - the <b>Adafruit RV-8803 Precision Real Time Clock Breakout Board</b> is a tick-tock above the rest with excellent ±1.5 ppm (at 0~50°C) accuracy. Thanks to the built-in crystal with temperature compensation management, classic RTC drift is minimized so you don't have to do any time correction with WiFi or GPS to keep current. Compare it to the popular [DS3231](https://www.adafruit.com/search?q=ds3231), with ±2 ppm (0~40°C), you get even tighter spec'd performance, at a better price!
+For excellent accuracy time-keeping - when your everyday RTC (Real Time Clock) won't do - the <b>Adafruit RV-8803 Precision Real Time Clock Breakout Board</b> is a tick-tock above the rest with excellent ±1.5 ppm (at 0-50°C) accuracy. Thanks to the built-in crystal with temperature compensation management, classic RTC drift is minimized so you don't have to do any time correction with WiFi or GPS to keep current. Compare it to the popular [DS3231](https://www.adafruit.com/search?q=ds3231), with ±2 ppm (0~40°C), you get even tighter spec'd performance, at a better price!
 
 This is a great battery-backed real time clock (RTC) that allows your microcontroller project to keep track of time even if it is reprogrammed, or if the power is lost. Perfect for data-logging, clock-building, time stamping, timers, and alarms, etc. Equipped with <b>RV-8803</b> RTC - it can run from 3.3V <i>or</i> 5V power & logic - and keep excellent time with under 50 seconds of drift over a whole year.
 
